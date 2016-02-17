@@ -1,5 +1,4 @@
 pages:
-  image: jekyll/jekyll
   script: pelican -o public/
   artifacts:
     paths:
