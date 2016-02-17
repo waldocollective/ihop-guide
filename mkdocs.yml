@@ -1,2 +1,10 @@
-site_name: The iHop Guide
+site_name: Guide to the iHop
+docs_dir: guide/
+pages:
+  - Home: index.md
+  - Parties:
+    - parties/bringing-guests.md
+    - parties/being-a-guest.md
+  - Living with us:
+    - living/guest-manifesto.md
 theme: readthedocs
