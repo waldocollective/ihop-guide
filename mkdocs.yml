@@ -1,5 +1,6 @@
 site_name: Guide to the iHop
 docs_dir: guide/
+extra_css: [extra.css]
 pages:
   - Home: index.md
   - Parties:
